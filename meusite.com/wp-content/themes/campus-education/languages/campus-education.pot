@@ -1,0 +1,469 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Campus Education \n"
+"POT-Creation-Date: 2016-02-11 19:00+0530\n"
+"PO-Revision-Date: 2016-02-11 19:00+0530\n"
+"Last-Translator: \n"
+"Language-Team: Themesglance <support@themesglance.com>\n"
+"Language: English\n"
+"MIME-Version: 0.1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:12
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:13
+msgid "Looks like you have taken a wrong turn"
+msgstr ""
+
+#: 404.php:14
+#: no-results.php:19
+msgid "Dont worry it happens to the best of us."
+msgstr ""
+
+#: 404.php:16 
+#: no-results.php:21
+msgid "Return to the home page"
+msgstr ""
+
+#: comments.php:17
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:27
+msgid "comments title"
+msgstr ""
+
+#: comments.php:52
+msgid "'Comments are closed."
+msgstr ""
+
+#: no-results.php:9
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:14
+msgid "Ready to publish your first post? Get started here."
+msgstr ""
+
+#: no-results.php:16
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: no-results.php:19
+msgid "Dont worry it happens to the best of us."
+msgstr ""
+
+#: no-results.php:21
+msgid "Return to the home page"
+msgstr ""
+
+#: footer.php:28
+msgid "Copyright 2018"
+msgstr ""
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:81
+msgid "Greetings from Themesglance!!"
+msgstr ""
+
+#: functions.php:82
+msgid "A heartful thank you for choosing Themesglance. We promise to deliver only the best to you. Please proceed towards welcome section to get started."
+msgstr ""
+
+#: functions.php:83
+msgid "About Theme"
+msgstr ""
+
+#: functions.php:90
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:91
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:100
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:101
+#: functions.php:111
+msgid "Appears on page sidebar"
+msgstr ""
+
+#: functions.php:110
+msgid "Third Column Sidebar"
+msgstr ""
+
+#: functions.php:120
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:130
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:140
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:150
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:121
+#: functions.php:131
+#: functions.php:141
+#: functions.php:151
+msgid "Appears on footer"
+msgstr ""
+
+#: functions.php:231
+msgid "Education WordPress Theme"
+msgstr ""
+
+#: header.php:99
+msgid "Menu"
+msgstr ""
+
+#: image.php:34
+#: image.php:69
+#: image.php:104
+#: image.php:139
+#: image.php:176
+#: image.php:213
+#: image.php:249
+#: page.php:30
+#: template-parts/single-post:25
+#: page-template/page-with-left-sidebar.php:23
+#: page-template/page-with-right-sidebar.php:20
+msgid "Pages:"
+msgstr ""
+
+#: image.php:39
+#: image.php:74
+#: image.php:109
+#: image.php:144
+#: image.php:181
+#: image.php:218
+#: image.php:254
+msgid "Edit"
+msgstr ""
+
+#: archive.php:34
+#: archive.php:72
+#: archive.php:105
+#: archive.php:139
+#: archive.php:176
+#: archive.php:215
+#: archive.php:252
+#: index.php:30
+#: index.php:64
+#: index.php:93
+#: index.php:123
+#: index.php:156
+#: index.php:189
+#: index.php:218
+#: search.php:31
+#: search.php:66
+#: search.php:96
+#: search.php:127
+#: search.php:161
+#: search.php:197
+#: search.php:231
+msgid "Previous page"
+msgstr ""
+
+#: archive.php:35
+#: archive.php:73
+#: archive.php:106
+#: archive.php:140
+#: archive.php:177
+#: archive.php:216
+#: archive.php:253
+#: index.php:31
+#: index.php:65
+#: index.php:94
+#: index.php:124
+#: index.php:157
+#: index.php:190
+#: index.php:219
+#: search.php:32
+#: search.php:67
+#: search.php:97
+#: search.php:128
+#: search.php:162
+#: search.php:198
+#: search.php:232
+msgid "Next page"
+msgstr ""
+
+#: archive.php:36
+#: archive.php:74
+#: archive.php:107
+#: archive.php:141
+#: archive.php:178
+#: archive.php:217
+#: archive.php:254
+#: index.php:32
+#: index.php:66
+#: index.php:95
+#: index.php:125
+#: index.php:158
+#: index.php:191
+#: index.php:220
+#: page.php:34
+#: search.php:33
+#: search.php:68
+#: search.php:98
+#: search.php:129
+#: search.php:163
+#: search.php:199
+#: search.php:233
+#: template-parts/single-post:29
+#: page-template/page-with-left-sidebar.php:27
+#: page-template/page-with-right-sidebar.php:24
+msgid "page"
+msgstr ""
+
+#: search.php:17
+#: search.php:52
+#: search.php:82
+#: search.php:113
+#: search.php:147
+#: search.php:181
+#: search.php:217
+msgid "Search Results For: %s"
+msgstr ""
+
+#: searchform.php:9
+#: searchform.php:11
+msgid "Search"
+msgstr ""
+
+#: searchform.php:9
+msgid "placeholder"
+msgstr ""
+
+#: searchform.php:11
+msgid "submit button"
+msgstr ""
+
+#: sidebar.php:11
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr ""
+
+#: template-parts/single-post:36
+msgid "Parent post link"
+msgstr ""
+
+#: template-parts/single-post:41
+msgid "Next"
+msgstr ""
+
+#: template-parts/single-post:42
+msgid "Next post:"
+msgstr ""
+
+#: template-parts/single-post:44
+msgid "Previous"
+msgstr ""
+
+#: template-parts/single-post:45
+msgid "Previous post:"
+msgstr ""
+
+#: template-parts/single-post:13
+#: template-parts/content-audio.php:37
+#: template-parts/content-gallery.php:28
+#: template-parts/content-image.php:21
+#: template-parts/content-video.php:37
+#: template-parts/content.php:21
+#: template-parts/grid-layout.php:22
+msgid "0 Comments"
+msgstr ""
+
+#: page-template/custom-front-page.php:39
+msgid "GET STARTED NOW"
+msgstr ""
+
+#: template-parts/content-audio.php:41
+#: template-parts/content-gallery.php:32
+#: template-parts/content-image.php:25
+#: template-parts/content-video.php:41
+#: template-parts/content.php:25
+#: template-parts/grid-layout.php:26
+msgid "Read Full"
+msgstr ""
+
+#: inc/customizer.php:15
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/customizer.php:16
+msgid "Description of what this panel does."
+msgstr ""
+
+#: inc/customizer.php:21
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/customizer.php:36
+msgid "Do you want this section"
+msgstr ""
+
+#: inc/customizer.php:39
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:28
+#: inc/customizer.php:40
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "Three Columns"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "Four Columns"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "Social Icon"
+msgstr ""
+
+#: inc/customizer.php:52
+#: inc/customizer.php:137
+msgid "Add Header Content here"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Add Facebook link"
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "Add Twitter link"
+msgstr ""
+
+#: inc/customizer.php:84
+msgid "Add Google Plus link"
+msgstr ""
+
+#: inc/customizer.php:95
+msgid "Add Pintrest link"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Add Instagram link"
+msgstr ""
+
+#: inc/customizer.php:117
+msgid "Add Linkedin link"
+msgstr ""
+
+#: inc/customizer.php:128
+msgid "Add Youtube link"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Topbar Section"
+msgstr ""
+
+#: inc/customizer.php:147
+msgid "Add Email Text"
+msgstr ""
+
+#: inc/customizer.php:158
+msgid "Add Email Address"
+msgstr ""
+
+#: inc/customizer.php:169
+msgid "Add Contact Text"
+msgstr ""
+
+#: inc/customizer.php:180
+msgid "Add Contact Number"
+msgstr ""
+
+#: inc/customizer.php:191
+msgid "Add Donate Text"
+msgstr ""
+
+#: inc/customizer.php:202
+msgid "Add Donate Link"
+msgstr ""
+
+#: inc/customizer.php:210
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:221
+msgid "Show / Hide slider"
+msgstr ""
+
+#: inc/customizer.php:233
+msgid "Select Slide Image Page"
+msgstr ""
+
+#: inc/customizer.php:241
+msgid "Welcome To Our Campus"
+msgstr ""
+
+#: inc/customizer.php:242
+msgid "Add Welcome To Our Campus sections below."
+msgstr ""
+
+#: inc/customizer.php:251
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer.php:261
+msgid "Add Text"
+msgstr ""
+
+#: inc/customizer.php:285
+msgid "Select Category to display Latest Post"
+msgstr ""
+
+#: inc/customizer.php:291
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer.php:292
+msgid "Add some text for footer like copyright etc."
+msgstr ""
+
+#: inc/customizer.php:301
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:383
+msgid "Campus Education Pro"
+msgstr ""
+
+#: inc/customizer.php:384
+msgid "Go Pro"
+msgstr ""
